@@ -1,9 +1,3 @@
 # My RESTful-API
 
-## Installatioasdfiiasdfasdf
-
-## Description
-
-## Implementation
-
-This project is implemented using Flask 
+This pet project helps to practice making RESTful-API uisng Flask framework
